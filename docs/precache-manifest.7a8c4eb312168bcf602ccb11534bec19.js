@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "674dc2365e967edffaed7c1c65665b22",
+    "revision": "ca128683b1b2711265d28129b11b4738",
     "url": "/vuejs-simon-game/index.html"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vuejs-simon-game/robots.txt"
   },
   {
-    "revision": "aad0e88ce65aa622c65b",
+    "revision": "2fd8ef9a3b5edd00721b",
     "url": "/vuejs-simon-game/static/css/app.5adcebc3.css"
   },
   {
-    "revision": "aad0e88ce65aa622c65b",
-    "url": "/vuejs-simon-game/static/js/app.33ca120f.js"
+    "revision": "2fd8ef9a3b5edd00721b",
+    "url": "/vuejs-simon-game/static/js/app.dc8a8a9f.js"
   },
   {
     "revision": "d57d64a9f65aab60297c",

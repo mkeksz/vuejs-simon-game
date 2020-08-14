@@ -52,7 +52,7 @@
       </div>
     </div>
     <div class="github">
-      <a href="#">Go to GitHub</a>
+      <a href="https://github.com/mkeksz/vuejs-simon-game">Go to GitHub</a>
     </div>
   </div>
 </template>

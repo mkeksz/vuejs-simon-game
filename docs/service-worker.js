@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vuejs-simon-game/precache-manifest.c43a9e126b454f84cbab16ccbf8e0ee7.js"
+  "/vuejs-simon-game/precache-manifest.7a8c4eb312168bcf602ccb11534bec19.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "medods-test-game-simon"});
