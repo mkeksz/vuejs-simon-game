@@ -140,8 +140,13 @@ export default {
       circle.classList.remove('glow')
     },
     soundPlay(numSound) {
-      const audio = new Audio(`/media/${numSound}.ogg`)
+      // const audio = document.getElementById(`media-${numSound}`)
+      // console.log({ audio }, numSound)
+      // audio.currentTime = 0
+      // audio.play()
+      let audio = new Audio(`/media/${numSound}.ogg`)
       audio.play()
+      audio.remove()
     },
 
     checkQueue(numCircle) {
