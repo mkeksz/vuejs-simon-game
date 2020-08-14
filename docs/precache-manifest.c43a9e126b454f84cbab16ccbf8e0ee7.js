@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa5e896926f125ea9c6a83af1676c7bd",
+    "revision": "674dc2365e967edffaed7c1c65665b22",
     "url": "/vuejs-simon-game/index.html"
   },
   {
@@ -28,15 +28,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vuejs-simon-game/robots.txt"
   },
   {
-    "revision": "66da72aa59a7603498d1",
-    "url": "/vuejs-simon-game/static/css/app.1edd9a31.css"
+    "revision": "aad0e88ce65aa622c65b",
+    "url": "/vuejs-simon-game/static/css/app.5adcebc3.css"
   },
   {
-    "revision": "66da72aa59a7603498d1",
-    "url": "/vuejs-simon-game/static/js/app.3bf35216.js"
+    "revision": "aad0e88ce65aa622c65b",
+    "url": "/vuejs-simon-game/static/js/app.33ca120f.js"
   },
   {
-    "revision": "a8f262f045e7428eee38",
-    "url": "/vuejs-simon-game/static/js/chunk-vendors.fbc819a3.js"
+    "revision": "d57d64a9f65aab60297c",
+    "url": "/vuejs-simon-game/static/js/chunk-vendors.90d01aa7.js"
   }
 ]);
