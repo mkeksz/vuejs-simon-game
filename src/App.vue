@@ -144,7 +144,7 @@ export default {
       // console.log({ audio }, numSound)
       // audio.currentTime = 0
       // audio.play()
-      let audio = new Audio(`/media/${numSound}.ogg`)
+      let audio = new Audio(`media/${numSound}.ogg`)
       audio.play()
       audio.remove()
     },
